@@ -26,7 +26,6 @@
   },
   "devDependencies": {
     "eslint": "^1.6.0",
-    "eslint-plugin-angular": "^0.12.0",
     "should": "4.4.x",
     "supertest": "0.15.x"
   },
